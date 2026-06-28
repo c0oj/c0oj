@@ -35,10 +35,8 @@ I'm a passionate cybersecurity student, currently studying at Edinburgh College.
 
 ### 🔥 Featured Projects
 
-- **[Project Name 1](link-to-repo)** — Brief one-line description (e.g., "Comprehensive digital forensics investigation of a compromised disk image using Autopsy and Volatility")
-- **[Project Name 2](link-to-repo)** — Brief description
-- **[Project Name 3](link-to-repo)** — Brief description
-- **[More Projects →](https://github.com/yourusername?tab=repositories)**
+- 
+
 
 
 ---
