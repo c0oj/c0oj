@@ -1,7 +1,7 @@
 # Hi there, I'm Chandler Yeardly 👋
 
 **Cybersecurity & Digital Forensics Student**  
-Edinburgh College 
+@Edinburgh College 
 
 ---
 
