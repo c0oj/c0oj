@@ -41,13 +41,6 @@ I'm a passionate cybersecurity student, currently studying at Edinburgh College.
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0oj&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0oj&layout=compact&theme=radical)
-
----
 
 ### 📚 Education
 **HNC / BEng (Hons) Cybersecurity and Digital Forensics**  
