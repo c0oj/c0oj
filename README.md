@@ -26,10 +26,9 @@ I'm a passionate cybersecurity student, currently studying at Edinburgh College.
 **Tools & Technologies**
 - **Forensics**: Autopsy, FTK Imager, 
 - **Networking**: Wireshark, Nmap, pfSense
-- **Security**: Kali Linux, Burp Suite, OWASP ZAP, Metasploit (lab use)
+- **Security**: Kali Linux,OWASP ZAP, Metasploit (lab use)
 - **SIEM & Detection**: Wazuh, Splunk (basics)
 - **Programming**: Python, Bash, 
-- **Others**: VirtualBox/VMware, Git/GitHub, Linux
 
 ---
 
