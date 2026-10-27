@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I'm a passionate cybersecurity student, currently studying at Edinburgh College. I'm building practical skills through hands-on labs and projects to prepare for a placement in a SOC, DFIR, or security operations role.
+I'm a passionate cybersecurity student, currently studying at Edinburgh College. I'm building practical skills through hands-on labs and projects to prepare for a placement in my penultimate year of University.
 
 - 🔭 Currently working on: Improving linux skills.
 - 🌱 Learning: Something new everyday!
